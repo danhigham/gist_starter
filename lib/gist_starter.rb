@@ -1,0 +1,5 @@
+require 'gist_starter/stager'
+require 'gist_starter/stagers/rack'
+require 'gist_starter/stagers/node'
+require 'gist_starter/runner'
+require 'gist_starter/logging'
